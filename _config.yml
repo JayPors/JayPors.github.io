@@ -40,7 +40,7 @@ avatar: "/img/D83C4961-6844-41D5-B442-7E47A4E8F0E9_1_201_a.jpeg"
 
 navbar-col: "#11a607"
 navbar-text-col: "#ffffff"
-navbar-children-col: "#F5F5F5"
+navbar-children-col: "#11a607"
 page-col: "#d6d2d2"
 link-col: "#02bfcc"
 hover-col: "#0085A1"
